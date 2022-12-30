@@ -411,6 +411,7 @@ h1.header__title{
 .letra-min{
     left: auto;
     top: 490px;
+    font-size: 14px;
 }
 /* Button encriptar*/
 .btn-encriptar{
